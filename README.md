@@ -1,7 +1,7 @@
 # Bootcamp Dio - Microsoft Azure AI Fundamentals -Explorando os Recursos de IA Generativa.
 
 Projeto tem por finalidade apresentar o que foi aprendido no módulo Explorando os Recursos de IA Generativa com Copilot e OpenAI.
-Exploramos Microsoft Copilot  que por sua vez usa IA generativa para trazer mais que um simples resultado de busca no Bing. O que geralmente ocorre em um buscador convencional sem o copilot e trazer o resultado da pesquisa baseandose em conteúdos existentes.
+Exploramos Microsoft Copilot  que por sua vez usa IA generativa para trazer mais que um simples resultado de busca no Bing. O que geralmente ocorre em um buscador convencional sem o copilot e trazer o resultado da pesquisabanzeando-se em conteúdos existentes.
   Quando se lança mão da mesma busca com a integração com o Microsoft Copilot reuni-se novas respostas com base na modelagem de linguagem natural e nas informações espalhadas pelo mundo através da web.
 
   Mostrarei abaixo o que é possivél fazer com a IA Generativa que foi incorporada a diversas aplicações existentes da Microsoft.
