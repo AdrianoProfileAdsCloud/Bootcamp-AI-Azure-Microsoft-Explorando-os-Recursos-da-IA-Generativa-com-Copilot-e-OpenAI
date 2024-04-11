@@ -47,7 +47,7 @@ O botão Novo tópico próximo à janela de bate-papo é útil para limpar o tó
 
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/LimparConversa.png)
 
-     ### Geração de imagens.
+     ### Geração de imagens - Plataforma DALL-E 3.
 
      Antes e preciso alterar para Desgner no lado direito da tela.
 
@@ -56,6 +56,42 @@ O botão Novo tópico próximo à janela de bate-papo é útil para limpar o tó
      Digite um prompt: - peixe com asas na nuvem.
 
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/GerandoImagem2.png)
+
+      O DALL-E é um programa de inteligência artificial que cria imagens a partir de descrições textuais, como vimos acima passamos um prompt com informações apenas textuais. Ele usa uma versão de 12 bilhões de parâmetros do modelo GPT-3 Transformer para interpretar entradas de linguagem natural e gerar imagens.O DALL-E em si é baseado em grandes modelos de linguagem, à medida que sua entrada de linguagem natural gera imagens.
+
+     ### Gerar Código com o Copilot.
+
+     Na janela de selecção de plataforma volte para o modo Copilot.
+
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Gera%C3%A7%C3%A3oCodigoCopilot1.png)
+
+     Trouxe junto com uma breve contextualização do que é uma lista neste caso na linguagem de programação Java, em seguinda nos trouxe um exemplo de como é possível realizar a implementação de uma lista.
+     Em seguida novo prompt com: - em C#. Apenas com isso o copilot traz uma nova busca do mesmo assunto Lista só que desta vez em C#.Observe que não precisei especificar o que é “aquilo”,o Copilot se baseou no histórico de conversas, neste caso claro no mesmo contexto de Listas.
+
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Gera%C3%A7%C3%A3oCodigoCopilot2.png)
+
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Gera%C3%A7%C3%A3oCodigoCopilot3.png)
+
+     ### Explore o Azure OpenAI.
+
+     O Azure OpenAI Service traz os modelos generativos de IA desenvolvidos pela OpenAI para a plataforma Azure, permitindo-lhe desenvolver soluções poderosas de IA que beneficiam da segurança, escalabilidade e integração de serviços fornecidos pela plataforma de nuvem Azure.
+
+     ### Provisionando um recurso Azure OpenAI.
+
+     Para utilizar modelos Azure OpenAI, devemos fornecer um recurso Azure OpenAI na sua subscrição do Azure.
+     Para isso entramos no portal do Azure -> Criamos um recurso Azure OpenAI de acordo com as seguintes configurações:
+        * Assinatura : uma assinatura do Azure que deverá ter sido aprovada para acesso ao serviço Azure OpenAI.
+        * Grupo de recursos : escolha um grupo de recursos existente ou crie um novo com um nome de sua preferência.
+        * Região : Escolha qualquer região disponível.
+        *  Nome : Lembrando como em qualquer outro serviço no Azure o nome  deverá ser exclusivo.
+        *  Nível de preços : Padrão S0 Aguarde a conclusão da implantação.
+        Em seguida, acesse o recurso Azure OpenAI implantado no portal do Azure.
+
+     Infelizmente a parte no que diz respeito Open AI, não será possível demostrar pois como é de conhecimento de todos para se criar o registrro na Open AI não podemos utilizar um email pessoal no processo !
+     
+     https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html
+
+     
 
      
 
