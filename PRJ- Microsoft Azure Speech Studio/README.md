@@ -25,7 +25,7 @@ Em seguida navegue para a página do Estúdio de fala em:
   
    Entre outras informações contidas ainda na mesma pagina do Estudio de fala - Conversação de fala em texo em tempo real.
 
-   ![Proximas Etapas](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/Proximas%20Etapas.jpg)
+   ![Proximas Etapas](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/Proximas%20Etapas.jpg)
 
 
 ### Análise de Sentimentos com Language Studio no Azure AI.
