@@ -10,7 +10,7 @@ Exploramos Microsoft Copilot  que por sua vez usa IA generativa para trazer mais
  
  https://copilot.microsoft.com/
 
- ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/login_microsoft-copilot.png)
+ ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/login_microsoft-copilot.png)
 
  Na parte inferior da tela, na janela Pergunte-me qualquer coisa . À medida que você insere prompts na janela, o Copilot usa toda informação da conversa para retornar a melhor resposta possível com base no que foi informado e como foi informado. Como exemplo realizarei uma serie de perguntas diversas, que pelo seus resultados é notavel que não se trata de uma simples busca convencional.
 
