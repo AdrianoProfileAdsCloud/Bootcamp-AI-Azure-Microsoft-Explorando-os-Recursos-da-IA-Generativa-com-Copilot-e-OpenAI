@@ -71,7 +71,7 @@ Em seguida navegue para a página do Estúdio de fala em:
 
    ### Ao analisar o texto contido no arquivo de texto Analise-Restaurante.txt(na pasta inputs), é possivél de imediato ter a resposta se os serviços prestados em geral agradou de forma positiva ou negativa o cliente.
 
-   ![Analise - Restaurante](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/Analise%20-%20Restaurante.jpg)
+   ![Analise - Restaurante](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/Analise%20-%20Restaurante.jpg)
 
     Neste caso vemos após a analise que de forma geral o cliente ficou satifeito pois 78% correspponde que tudo ocorreu bem.
     Com uma parcela de 7% apenas dos serviços prestados estavam com algum problema.
