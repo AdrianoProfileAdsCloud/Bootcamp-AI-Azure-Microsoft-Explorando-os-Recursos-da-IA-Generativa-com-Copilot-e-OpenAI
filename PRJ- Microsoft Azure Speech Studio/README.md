@@ -61,7 +61,7 @@ Em seguida navegue para a página do Estúdio de fala em:
 
    Como queremos analisar através do texto selecionado o grau de safistação por exemplo de um cliente em resposta a um serviço oferecido. Devemos então selecionar - Classify text - Analyze sentiment mine options.
    
-![Classify Text](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/Classify%20Text.jpg)
+![Classify Text](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/Classify%20Text.jpg)
 
   Na próxima tela podemos trabalhar de duas formas:
    Entranos com o texto diretamente da área - Enter your own text, upload a file...
