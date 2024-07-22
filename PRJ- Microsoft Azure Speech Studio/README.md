@@ -57,7 +57,7 @@ Em seguida navegue para a página do Estúdio de fala em:
 
    Obs: Em Resource name - Selecionar o resorce criado na etapa anterior.Para ser feito o link com o serviço a ser usado.
    
-![languageCognitive](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/languageCognitive.jpg)
+![languageCognitive](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/languageCognitive.jpg)
 
    Como queremos analisar através do texto selecionado o grau de safistação por exemplo de um cliente em resposta a um serviço oferecido. Devemos então selecionar - Classify text - Analyze sentiment mine options.
    
