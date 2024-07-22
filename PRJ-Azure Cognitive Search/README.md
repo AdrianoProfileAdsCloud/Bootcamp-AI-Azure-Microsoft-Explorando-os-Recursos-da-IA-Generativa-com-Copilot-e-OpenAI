@@ -14,7 +14,7 @@ Projeto tem como objetivo demonstrar com um passo, como aplicar as técnicas de 
   <p>Compor uma solução para uma dada rede de cafeteria fictícia que deseja obter de forma centralizada informações referentes a satisfação do cliente em relação aos serviços prestados e a infraestrutura das cafeterias da rede.</p>
 
 ## Azure AI Services - Azure AI Search
-![alt text](images/AISearch.png)
+![alt text](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Azure%20Cognitive%20Search/images/AI%20Search.jpg)
 
 Clicando no botão Create search service, daremos inicio as principais configurações(Pelo menos no diz respeito a este projeto.)
 ![alt text](images/image-3.png)
