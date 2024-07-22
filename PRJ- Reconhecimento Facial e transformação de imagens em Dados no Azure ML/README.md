@@ -30,8 +30,6 @@ Para implementação em uma aplicação ainda podemos contar com um “Código d
  O uso para esta API também podem ser diversos, desde da leitura de uma Nota Fiscal, a qualquer documento ou imagem que seja necessário.
 Como por exemplo podemos usar este recurso para extrair texto de livros físicos que não se encontram mais a venda, livros raros. É com isso extrair o conteúdo em texto das páginas digitalizadas e posteriormente usar de muitas formas exemplo: Comparar o texto de um autor de um livro antigo com um autor dos dias atuais a fim de encontrar algum padrão de semelhança na elaboração do texto, como ambos autores se expressão, se há alguma parte até mesmo plagiada!
 
-![image](https://github.com/AdrianoProfileAdsCloud/Prj2-AI-900/assets/141897391/a9390bb4-3096-4360-a1e1-0cf737cfb8e1)
-
 O processo neste caso também é bem simples e muito intuitivo. Basta carregar a imagem desejada e temos algumas informações da mesma mostradas na guia - Detected Atributes ou em Json na guia Json. Como mostra a seguir. É possível extrair qualquer informação como mostra na imagem a informação do cnpj contido na nota fiscal carregada.
 
 ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Microsoft-Azure-AI-Fundamentals/blob/main/PRJ-%20Reconhecimento%20Facial%20e%20transforma%C3%A7%C3%A3o%20de%20imagens%20em%20Dados%20no%20Azure%20ML/Inputs/nota-fiscal-modelo.jpg)
