@@ -24,7 +24,7 @@ Exploramos Microsoft Copilot  que por sua vez usa IA generativa para trazer mais
 
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/Pergunta%20no%20prompt%20bing-%20ia%20parte%202.png)
 
-     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/Gera%C3%A7%C3%A3oCodigoCopilot3.png)
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/Pergunta%20no%20prompt%20bing-%20ia%20parte%203.png)
 
      Perceba que além de trazer uma consideração relevante sobre IA, ainda forneceu um passo a passo de como  deverá iiciar o estudo, o que é mais relevante para iniciar os estudos.
      Lista algumas instituições de ensino que ministram cursos sobre IA. E muito mais como pode ser visto nas imagens acima.
