@@ -32,7 +32,7 @@ Exploramos Microsoft Copilot  que por sua vez usa IA generativa para trazer mais
      Observações no geral:
        Dada a seginte pergunta no prompt -  Quais são os três prós e contras de viajar no inverno?
 
-     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/viajar%20no%20inverno%20parte%201.png)
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/viajar%20no%20inverno%20parte%201.png)
 
      Até aqui nada de novo do que já vismos certo? Agora iremos digitar novamente no prompt o seguinte: Encontre-me mais 3 prós.
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/viajar%20no%20inverno%20parte%203.png)
