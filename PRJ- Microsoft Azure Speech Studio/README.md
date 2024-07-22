@@ -38,7 +38,7 @@ Em seguida navegue para a página do Estúdio de fala em:
     2- Selecionar - AI + Machine Learning.
     3- Selecionar - Language service.
     
-   ![Analise de Sentimentos ](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/Analise%20de%20Sentimentos%20.jpg)
+   ![Analise de Sentimentos ](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/Analise%20de%20Sentimentos%20.jpg)
    
     Na tela a seguir mostrará as Defauts features.Seguimos clicando em: Continue to create your resource.
     
