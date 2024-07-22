@@ -21,7 +21,7 @@ Em seguida navegue para a página do Estúdio de fala em:
    Com este serviço é possivél converter qualquer audio em fala.Não só isso podemos fazer essa conversão do audio em qualquer idioma.
     No https://github.com/Azure-Samples/cognitive-services-speech-sdk ainda podemos ver com o sdk as implementações possíveis do serviço para algumas linguagens de programação e sistemas operacionais.
 
-  ![Usando o Sdk do serviços de fala](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/Usando%20o%20Sdk%20do%20servi%C3%A7os%20de%20fala.jpg)
+  ![Usando o Sdk do serviços de fala](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/Usando%20o%20Sdk%20do%20servi%C3%A7os%20de%20fala.jpg)
   
    Entre outras informações contidas ainda na mesma pagina do Estudio de fala - Conversação de fala em texo em tempo real.
 
