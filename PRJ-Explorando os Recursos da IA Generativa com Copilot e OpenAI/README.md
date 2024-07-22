@@ -20,7 +20,7 @@ Exploramos Microsoft Copilot  que por sua vez usa IA generativa para trazer mais
    Veja que a busca retornada, se constitui de um breve resumo sobre Einstein trazendo pontos relevantes sobre ele,e concluindo respondeu minha pergunta com base no histórico sobre Einstein espalhados pela web e fez uma sintetização dessas informações para supor como ele seria hoje em dia se ainda estivesse vivo.
 
    * como devo estudar IA para o futuro?
-     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Pergunta%20no%20prompt%20bing-%20ia.png)
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/Pergunta%20no%20prompt%20bing-%20ia.png)
 
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Pergunta%20no%20prompt%20bing-%20ia%20parte%202.png)
 
