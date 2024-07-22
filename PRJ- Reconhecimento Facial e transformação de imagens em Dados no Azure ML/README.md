@@ -34,7 +34,7 @@ Como por exemplo podemos usar este recurso para extrair texto de livros físicos
 
 O processo neste caso também é bem simples e muito intuitivo. Basta carregar a imagem desejada e temos algumas informações da mesma mostradas na guia - Detected Atributes ou em Json na guia Json. Como mostra a seguir. É possível extrair qualquer informação como mostra na imagem a informação do cnpj contido na nota fiscal carregada.
 
-![image](https://github.com/AdrianoProfileAdsCloud/Prj2-AI-900/assets/141897391/dae1a20c-0acd-4dc0-a789-e30cc80dcd91)
+![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Microsoft-Azure-AI-Fundamentals/blob/main/PRJ-%20Reconhecimento%20Facial%20e%20transforma%C3%A7%C3%A3o%20de%20imagens%20em%20Dados%20no%20Azure%20ML/Inputs/nota-fiscal-modelo.jpg)
 
 ## Azure AI – Vision Studio - Adicione legendas às imagens.
 
