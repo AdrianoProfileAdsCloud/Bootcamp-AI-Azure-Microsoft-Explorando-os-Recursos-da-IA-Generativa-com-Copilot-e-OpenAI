@@ -67,7 +67,7 @@ Em seguida navegue para a página do Estúdio de fala em:
    Entranos com o texto diretamente da área - Enter your own text, upload a file...
    Ou realizamos o upload do arquivo de texto que se deseja realizar a análise em - Arraste e solte arquivo(s)...
    
-![language Studio](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/language%20Studio.jpg)
+![language Studio](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/language%20Studio.jpg)
 
    ### Ao analisar o texto contido no arquivo de texto Analise-Restaurante.txt(na pasta inputs), é possivél de imediato ter a resposta se os serviços prestados em geral agradou de forma positiva ou negativa o cliente.
 
