@@ -42,7 +42,7 @@ Em seguida navegue para a página do Estúdio de fala em:
    
     Na tela a seguir mostrará as Defauts features.Seguimos clicando em: Continue to create your resource.
     
- ![criar idioma](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/criar%20idioma.jpg)
+ ![criar idioma](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/criar%20idioma.jpg)
  
    Observação: Uma coisa muito importante que deverá ser lembrada a todo instente é o Uso Responsável da IA.
 ![UsoResponsavelIA](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/UsoResponsavelIA.jpg)
