@@ -45,7 +45,7 @@ Exploramos Microsoft Copilot  que por sua vez usa IA generativa para trazer mais
      Embora o Copilot seja capaz de fornecer uma resposta relacionada, ele pode eliminar “memórias” anteriores do tópico da conversa à medida que continua. Como resultado, as respostas que você obtém podem não estar diretamente relacionadas às viagens no inverno. Isso tem muito a ver com limitações de entrada de token. Quando o chat “lembra” partes anteriores de uma conversa, é porque economizou uma certa quantidade de tokens da conversa. À medida que novos tokens são introduzidos por meio de suas novas solicitações e respostas, o chat irá liberar os tokens mais antigos.
 O botão Novo tópico próximo à janela de bate-papo é útil para limpar o tópico da conversa anterior, desta forma as respostas do novo tópico não são baseadas no tópico anterior. Use o ícone Novo tópico próximo à janela de bate-papo para limpar seu histórico de mensagens.
 
-     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/LimparConversa.png)
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/GerandoImagem1.png)
 
      ### Geração de imagens - Plataforma DALL-E 3.
 
