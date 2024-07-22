@@ -68,7 +68,7 @@ O botão Novo tópico próximo à janela de bate-papo é útil para limpar o tó
      Trouxe junto com uma breve contextualização do que é uma lista neste caso na linguagem de programação Java, em seguinda nos trouxe um exemplo de como é possível realizar a implementação de uma lista.
      Em seguida novo prompt com: - em C#. Apenas com isso o copilot traz uma nova busca do mesmo assunto Lista só que desta vez em C#.Observe que não precisei especificar o que é “aquilo”,o Copilot se baseou no histórico de conversas, neste caso claro no mesmo contexto de Listas.
 
-     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Gera%C3%A7%C3%A3oCodigoCopilot2.png)
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/Gera%C3%A7%C3%A3oCodigoCopilot2.png)
 
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Gera%C3%A7%C3%A3oCodigoCopilot3.png)
 
