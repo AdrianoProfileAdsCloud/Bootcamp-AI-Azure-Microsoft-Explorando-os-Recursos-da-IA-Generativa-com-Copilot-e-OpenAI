@@ -12,7 +12,7 @@ Em seguida navegue para a página do Estúdio de fala em:
 
  Estando no Estudio de Fala seleciomos o idioma desejado.Em seguida escolhemos os arquivo(s) de audio a ser convertido(Conversão de fala em Texto.mp3). 
  
-![Conversão de fala em Texto](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/Convers%C3%A3o%20de%20fala%20em%20Texto.jpg)
+![Conversão de fala em Texto](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/Convers%C3%A3o%20de%20fala%20em%20Texto.jpg)
 
    Enão logo, será mostrado ao lado em Resultado de Teste a converão do audio para texto conforme o aúdio é executado.
    
