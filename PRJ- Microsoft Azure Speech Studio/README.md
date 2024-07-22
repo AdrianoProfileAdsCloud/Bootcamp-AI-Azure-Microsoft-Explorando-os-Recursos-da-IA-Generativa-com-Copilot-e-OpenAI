@@ -16,7 +16,7 @@ Em seguida navegue para a página do Estúdio de fala em:
 
    Enão logo, será mostrado ao lado em Resultado de Teste a converão do audio para texto conforme o aúdio é executado.
    
-![Exibição da Conversão de Fala em texto](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/Convers%C3%A3o%20de%20fala%20em%20Texto.jpg)
+![Exibição da Conversão de Fala em texto](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/Convers%C3%A3o%20de%20fala%20em%20Texto.jpg)
 
    Com este serviço é possivél converter qualquer audio em fala.Não só isso podemos fazer essa conversão do audio em qualquer idioma.
     No https://github.com/Azure-Samples/cognitive-services-speech-sdk ainda podemos ver com o sdk as implementações possíveis do serviço para algumas linguagens de programação e sistemas operacionais.
