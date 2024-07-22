@@ -22,7 +22,7 @@ Exploramos Microsoft Copilot  que por sua vez usa IA generativa para trazer mais
    * como devo estudar IA para o futuro?
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/Pergunta%20no%20prompt%20bing-%20ia.png)
 
-     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Pergunta%20no%20prompt%20bing-%20ia%20parte%202.png)
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/Pergunta%20no%20prompt%20bing-%20ia%20parte%202.png)
 
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Pergunta%20no%20prompt%20bing-%20ia%20parte%203.png)
 
