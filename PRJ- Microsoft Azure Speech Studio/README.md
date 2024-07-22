@@ -50,7 +50,7 @@ Em seguida navegue para a página do Estúdio de fala em:
   Em seguida ao marcar o termo de uso Uso Responsável da IA. E só clicar e Revisar/criar
    A implantação do serviço começará.
    
-   ![Processo de Implantação](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/Processo%20de%20Implanta%C3%A7%C3%A3o.jpg)
+   ![Processo de Implantação](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/Processo%20de%20Implanta%C3%A7%C3%A3o.jpg)
    
    Após o termino da implantação navegar para o Language Cognitive em:
     https://language.cognitive.azure.com/home.
