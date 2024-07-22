@@ -41,5 +41,5 @@ O processo neste caso também é bem simples e muito intuitivo. Basta carregar a
 Gera uma frase legível que descreva o conteúdo de uma imagem. Ao usar este serviço conseguimos acessibilidade, por exemplo, para uma pessoa cega. Com o uso deste serviço é possível obter esta descrição dos elementos que contém a imagem, em seguida podemos utilizar outros recursos para ler estas legendas que são descritas e com isso a pessoa com deficiência de visão poder acompanhar.
  O uso também e simples e intuitivo basta carregar a imagem que se deseja a descrição dos elementos contido na mesma. Como mostra a imagem a seguir.
 
- ![image](https://github.com/AdrianoProfileAdsCloud/Prj2-AI-900/assets/141897391/7188bfa8-8097-4fe5-8600-ac402f6ca67f)
+ ![image](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Microsoft-Azure-AI-Fundamentals/blob/main/PRJ-%20Reconhecimento%20Facial%20e%20transforma%C3%A7%C3%A3o%20de%20imagens%20em%20Dados%20no%20Azure%20ML/Inputs/Azure%20AI%20Vision%20Studio.png)
 
