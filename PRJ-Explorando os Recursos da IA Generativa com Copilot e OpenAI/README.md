@@ -35,7 +35,7 @@ Exploramos Microsoft Copilot  que por sua vez usa IA generativa para trazer mais
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/viajar%20no%20inverno%20parte%201.png)
 
      Até aqui nada de novo do que já vismos certo? Agora iremos digitar novamente no prompt o seguinte: Encontre-me mais 3 prós.
-     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/viajar%20no%20inverno%20parte%203.png)
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/viajar%20no%20inverno%20parte%203.png)
 
      Certo pedi para mostrar mais três motivos positivos para viajar no inverno que ainda não foram listados na primeira busca.O interessante neste segundo prompt é que estamos solicitando ao Copilot que faça duas coisas que a pesquisa por si só não faz: usar a resposta do chat anterior para excluir o que é retornado na nova resposta e usar o tópico do chat anterior sem declará-lo explicitamente.
      Observe o que acontece a seguir: Digite no prompt agora: Onde estão três lugares onde posso ir para encontrar menos multidões?
