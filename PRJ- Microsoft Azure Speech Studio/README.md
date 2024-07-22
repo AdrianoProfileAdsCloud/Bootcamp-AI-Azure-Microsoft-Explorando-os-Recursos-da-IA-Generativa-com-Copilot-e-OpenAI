@@ -80,7 +80,7 @@ Em seguida navegue para a página do Estúdio de fala em:
 
    ### Ao analisar o texto contido no arquivo de texto Analise-Hotel.txt (na pasta inputs), é possivél de imediato ter a resposta se os serviços prestados em geral agradou de forma positiva ou negativa o cliente.
 
-   ![Analise - Hotel](https://github.com/AdrianoProfileAdsCloud/PRJ--Azure-Speech-Studio/blob/main/prints/Analise%20-%20Hotel.jpg)
+   ![Analise - Hotel](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-%20Microsoft%20Azure%20Speech%20Studio/prints/Analise%20-%20Hotel.jpg)
 
     Neste caso vemos após a analise que de forma geral o cliente ficou satifeito pois 96% correspponde que tudo ocorreu rasoavelmente bem nos na tratativa dos clientes.
     Com uma parcela de 3% corresponder como analise neutra.
