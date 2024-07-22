@@ -70,7 +70,7 @@ O botão Novo tópico próximo à janela de bate-papo é útil para limpar o tó
 
      ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/Gera%C3%A7%C3%A3oCodigoCopilot2.png)
 
-     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/imagens/Gera%C3%A7%C3%A3oCodigoCopilot3.png)
+     ![alt](https://github.com/AdrianoProfileAdsCloud/Bootcamp-AI-Azure-Microsoft-Explorando-os-Recursos-da-IA-Generativa-com-Copilot-e-OpenAI/blob/main/PRJ-Explorando%20os%20Recursos%20da%20IA%20Generativa%20com%20Copilot%20e%20OpenAI/imagens/Gera%C3%A7%C3%A3oCodigoCopilot3.png)
 
      ### Explore o Azure OpenAI.
 
